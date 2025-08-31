@@ -2,7 +2,7 @@ import mysql.connector  # Import Library
 
 mydb = mysql.connector.connect(host='localhost',user='root',password='1234',database='School') # Database
 
-mycursor=mydb.cursor() # Cursor
+mycursor=mydb.cursor() # Create a Cursor
 
 
 def stuInsert(): # Function To Insert Student Details in Student Table
