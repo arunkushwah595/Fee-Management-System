@@ -1,6 +1,7 @@
-    # Fee Management System
     
- 
+# Fee Management System
+### Python, MySQL
+
  ## • Developed a fee management system using Python and MySql
  
  ## • Connected Python program and Database together by importing mysql.connector library
